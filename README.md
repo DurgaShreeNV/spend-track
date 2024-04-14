@@ -10,7 +10,7 @@ Crafted a GraphQL project Spend Track, a full-stack expense tracker app using Ex
 - **MongoDB**
 - **React**
 - **Apollo**
-- **Cron Jobs, much more**
+- **Cron Jobs and few more technologies**
 
 ## Deployment 
 This web app is deployed on Render. 
